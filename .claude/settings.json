@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(which chromium-browser *)",
+      "Read(//Applications/Google Chrome.app/**)",
+      "Bash(npm test *)",
+      "Edit(/.claude/skills/page-object/**)"
+    ]
+  }
+}
